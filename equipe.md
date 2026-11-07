@@ -1,6 +1,6 @@
 # Équipe
 
-**Lien du tableau de bord :**
+**Lien du tableau de bord : https://projet-data-recoltes001.streamlit.app/**
 
 | Membre | Identifiant GitHub | Rôle principal |
 |---|---|---|
